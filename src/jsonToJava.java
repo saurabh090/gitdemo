@@ -15,7 +15,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class jsonToJava {
 
 	
-	
+	// placed comment as first line inside class  
 	//String url = "jdbc:sqlserver://MYPC\\SQLEXPRESS;databaseName=MYDB";
 	
 	
