@@ -12,6 +12,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 // added comment from gitstuff
+// added first comment to test GIT branch
 public class jsonToJava {
 
 	
