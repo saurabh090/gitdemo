@@ -13,6 +13,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 // added comment from gitstuff
 // added first comment to test GIT branch
+//added second comment to test GIT branch
 public class jsonToJava {
 
 	
